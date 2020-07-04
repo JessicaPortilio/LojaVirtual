@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "195680352972",
+    "firebase_url": "https://loja-virtual-d08e6.firebaseio.com",
+    "project_id": "loja-virtual-d08e6",
+    "storage_bucket": "loja-virtual-d08e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195680352972:android:17b22fa443ff599caba069",
+        "android_client_info": {
+          "package_name": "portilio.com.lojavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195680352972-hi5mqjbi2rjor471ljkgu2jh52qsl8o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy-pmC19uodV1YXx8zSmYUTm7iJe7hato"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195680352972-hi5mqjbi2rjor471ljkgu2jh52qsl8o5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
